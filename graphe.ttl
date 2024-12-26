@@ -1,0 +1,39 @@
+@prefix ex: <http://example.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+# Définition des départements
+ex:IT a ex:Department ;
+    ex:hasName "Informatique" .
+
+ex:HR a ex:Department ;
+    ex:hasName "Ressources Humaines" .
+
+# Définition des employés
+ex:JohnDoe a foaf:Person ;
+    foaf:name "John Doe" ;
+    ex:worksIn ex:IT ;
+    ex:hasRole "Développeur" ;
+    dct:identifier "12345" .
+
+ex:JaneSmith a foaf:Person ;
+    foaf:name "Jane Smith" ;
+    ex:worksIn ex:HR ;
+    ex:hasRole "Responsable RH" ;
+    dct:identifier "67890" .
+
+# Définition des projets
+ex:ProjectA a ex:Project ;
+    ex:hasName "Développement Application Web" ;
+    ex:hasDepartment ex:IT ;
+    ex:hasTeamMember ex:JohnDoe .
+
+ex:ProjectB a ex:Project ;
+    ex:hasName "Recrutement" ;
+    ex:hasDepartment ex:HR ;
+    ex:hasTeamMember ex:JaneSmith .
+
+# Relations entre employés et projets
+ex:JohnDoe ex:worksOn ex:ProjectA .
+ex:JaneSmith ex:worksOn ex:ProjectB .
