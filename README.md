@@ -9,8 +9,8 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 
 ## Installation
 1. Clonez ce dépôt :
-   -git clone https://github.com/Takouchouang/community-detection-knowledge-graphs.git
-   -cd community-detection-knowledge-graphs
+   - git clone https://github.com/Takouchouang/community-detection-knowledge-graphs.git
+   - cd community-detection-knowledge-graphs
    
 2. Installez les dépendances :
    ```bash
