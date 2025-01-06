@@ -28,5 +28,6 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 ## Contribution
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request.
 
-## Licence
-Ce projet est sous licence MIT.
+## Auteurs
+- Takouchouang Fraisse Sacre : Eleve Ingenieur en Systeme Intelligent et Multimedia
+- Collaborateur: 
