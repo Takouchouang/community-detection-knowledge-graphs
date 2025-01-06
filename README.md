@@ -30,4 +30,5 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 ## Auteurs
 - Takouchouang Fraisse Sacre : Eleve Ingenieur en Systeme Intelligent et Multimedia
-- Collaborateur: 
+- Collaborateur : Dr.Ho Tuong Vinh : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
+http://ifi.vnu.edu.vn.
