@@ -13,9 +13,9 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
    - cd community-detection-knowledge-graphs
    
 2. Installez les dépendances :
-   ```bash
-   pip install -r requirements.txt
-   ```
+   
+- pip install -r requirements.txt
+
 
 ## Utilisation
 - Exécutez les notebooks Jupyter dans le répertoire `notebooks/` pour voir les expériences.
