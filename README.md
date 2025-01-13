@@ -25,7 +25,7 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 ## Exemple d'image de detection de la communaute en utilisant l'algorithme de Louvain de notre fichier gaphique.ttl
 
 ![Texte alternatif](/Detectioncommunaute.png) 
-<img src="/Détectioncommunaute.png" alt="Logo" width="100"/>
+<!-- <img src="/Détectioncommunaute.png" alt="Logo" width="100"/> -->
 
 ## Contribution
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request.
