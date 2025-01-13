@@ -22,10 +22,10 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 ## Données
 - Des graphes d'exemple sont fournis par le fichier 'graphique.ttl'.
 - Vous pouvez utiliser vos propres graphes en les convertissant au format RDF ou JSON-LD.
-### Exemple d'image de detection de la communaute en utilisant l'algorithme de Louvain de notre fichier gaphique.ttl
+## Exemple d'image de detection de la communaute en utilisant l'algorithme de Louvain de notre fichier gaphique.ttl
 
 ![Texte alternatif](/Détectioncommunaute.png) 
-<!-- <img src="/Détectioncommunaute.png" alt="Logo" width="200"/>
+<img src="/Détectioncommunaute.png" alt="Logo" width="200"/>
 
 ## Contribution
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request.
