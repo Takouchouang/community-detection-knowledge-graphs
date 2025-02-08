@@ -31,6 +31,6 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request.
 
 ## Auteurs
-- **Takouchouang Fraisse Sacre** : Eleve Ingenieur en Systeme Intelligent et Multimedia
-- **Collaborateur** : Dr.Ho Tuong Vinh : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
+- **Takouchouang Fraisse Sacre** : leve Ingenieur en Systeme Intelligent et Multimedia
+- **Collaborateur** : **Dr.Ho Tuong Vinh** : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
 http://ifi.vnu.edu.vn.
