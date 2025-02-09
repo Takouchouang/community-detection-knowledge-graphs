@@ -5,7 +5,7 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 ## Fonctionnalités
 - Implémentation d'algorithmes de détection de communautés (**Louvain**).
 - Application à des graphes de connaissance réels (par exemple, Wikidata, DBpedia).
-- Visualisation des communautés détectées en utilisant le framework Dash.
+- Visualisation des communautés détectées en utilisant le framework **Dash**.
 
 ## Installation
 1. Clonez ce dépôt :
