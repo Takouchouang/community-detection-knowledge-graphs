@@ -3,7 +3,7 @@
 Ce projet explore divers algorithmes pour détecter des communautés dans les graphes de connaissance, en mettant l'accent sur les graphes hétérogènes avec des nœuds et des arêtes étiquetés.
 
 ## Fonctionnalités
-- Implémentation d'algorithmes de détection de communautés (Louvain).
+- Implémentation d'algorithmes de détection de communautés (**Louvain**).
 - Application à des graphes de connaissance réels (par exemple, Wikidata, DBpedia).
 - Visualisation des communautés détectées en utilisant le framework Dash.
 
