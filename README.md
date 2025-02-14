@@ -28,7 +28,7 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 <!-- <img src="/Détectioncommunaute.png" alt="Logo" width="100"/> -->
 
 ## Contribution
-Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request.
+Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une **pull request**.
 
 ## Auteurs
 - **Takouchouang Fraisse Sacre** : leve Ingenieur en Systeme Intelligent et Multimedia
