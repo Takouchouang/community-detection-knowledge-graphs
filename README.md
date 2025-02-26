@@ -20,7 +20,7 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 - Utilisez les scripts Python dans `src/` pour travailler avec des graphes personnalisés.
 
 ## Données
-- Des graphes d'exemple sont fournis par le fichier 'graphique.ttl'.
+- Des graphes d'exemple sont fournis par le fichier '**graphique.ttl**'.
 - Vous pouvez utiliser vos propres graphes en les convertissant au format RDF ou JSON-LD.
 ## Exemple d'image de detection de la communaute en utilisant l'algorithme de Louvain de notre fichier gaphique.ttl
 
