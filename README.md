@@ -17,7 +17,7 @@ Ce projet explore divers algorithmes pour détecter des communautés dans les gr
 - **pip install -r requirements.txt**
 ## Utilisation
 - Exécutez les **notebooks Jupyter** dans le répertoire **`notebooks/`** pour voir les expériences.
-- Utilisez les scripts Python dans `src/` pour travailler avec des graphes personnalisés.
+- Utilisez les scripts Python dans **`src/`** pour travailler avec des graphes personnalisés.
 
 ## Données
 - Des graphes d'exemple sont fournis par le fichier '**graphique.ttl**'.
