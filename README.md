@@ -1,6 +1,6 @@
 # Détection de Communautés dans les Graphes de Connaissance
 
-Ce projet explore divers algorithmes pour détecter des communautés dans les **graphes de connaissance**, en mettant l'accent sur les graphes hétérogènes avec des nœuds et des arêtes étiquetés.
+Ce projet explore divers algorithmes pour détecter des communautés dans les **graphes de connaissance**, en mettant l'accent sur les graphes hétérogènes avec des **nœuds** et des **arêtes étiquetés**.
 
 ## Fonctionnalités
 - Implémentation d'algorithmes de détection de communautés (**Louvain**).
